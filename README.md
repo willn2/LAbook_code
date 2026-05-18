@@ -23,6 +23,6 @@ and .py files is the same as live script (.mlx) files and .m files in MATLAB.
 
 Google Colab is a free, cloud-based computing platform that can execute the jupyter notebook. The advantage is 
 that Colab does not require that your system has any python packages downloaded and you can start running the code immediately. 
-All you need is a google account to get started. Here is a link to their homepage: https://developers.google.com/colab
+All you need is a google account to get started. Here is a link to their homepage: https://developers.google.com/colab.
 I want to emphasize that a paid subscription is NOT necessary to execute this code, though there may be free-resources for students 
 that are interested in executing the code on a GPU. 
