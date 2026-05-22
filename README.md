@@ -25,3 +25,6 @@ Google Colab is a free, cloud-based computing platform that can execute the jupy
 your system to have any python packages downloaded and you can start running the code immediately. 
 All you need is a google account to get started. Here is a link to their homepage: https://developers.google.com/colab.
 I want to emphasize that a paid subscription is NOT necessary to execute this code. 
+
+DOI: https://doi.org/10.5281/zenodo.20344452
+
